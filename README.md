@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yanjun96
+- 👋 Hi, I’m Yanjun Zhang, a PhD student in KTH Royal Institute of Technology
 - 👀 I’m interested in global history and economic.
 - 🌱 I’m currently learning English and Python.
 - 💞️ I’m looking to collaborate on Finite element method and Computation Fluid dynamic based project.
